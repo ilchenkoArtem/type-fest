@@ -77,6 +77,7 @@ export {Split} from './source/split';
 export {Trim} from './source/trim';
 export {Includes} from './source/includes';
 export {Get} from './source/get';
+export {SetProp} from './source/set-prop';
 export {LastArrayElement} from './source/last-array-element';
 
 // Miscellaneous
